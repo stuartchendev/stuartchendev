@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yi-Ting (Stuart) Chen</h1>
 <h3 align="center">A passionate frontend & Ai-driven developer from Taiwan</h3>
 
-- 🔭 I’m currently working on [javascript-practices](https://github.com/stuartchen/javascript-practices.git)
+- 🔭 I’m currently working on [javascript-practices](https://github.com/stuartchendev/javascript-practices.git)
 
 - 🌱 I’m currently learning **JaveScript**
 
@@ -16,9 +16,9 @@
 - ⚡ Fun fact **I am a little fire lit in the corner.**
 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stuartchen&show_icons=true&locale=en&layout=compact" alt="stuartchen" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stuartchendev&show_icons=true&locale=en&layout=compact" alt="stuartchendev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stuartchen&show_icons=true&locale=en" alt="stuartchen" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stuartchendev&show_icons=true&locale=en" alt="stuartchendev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stuartchen&" alt="stuartchen" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stuartchendev&" alt="stuartchendev" /></p>
 

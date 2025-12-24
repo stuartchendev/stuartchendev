@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Yi Ting Chen</h1>
+<h1 align="center">Hi 👋, I'm Yi-Ting (Stuart) Chen</h1>
 <h3 align="center">A passionate frontend & Ai-driven developer from Taiwan</h3>
 
 - 🔭 I’m currently working on [javascript-practices](https://github.com/lit-cup/javascript-practices.git)
 
 - 🌱 I’m currently learning **JaveScript**
 
-- 👨‍💻 All of my projects are available at [https://lit-cup.github.io/](https://lit-cup.github.io/)
+- 👨‍💻 All of my projects are available at [https://stuartchendev.github.io/](https://stuartchendev.github.io/)
 
 - 📝 I regularly write articles on [TBD](TBD)
 
-- 💬 Ask me about **JavaScript、C、Java**
+- 💬 Ask me about **JavaScript、MVC**
 
-- 📫 How to reach me **stuart.yitingchen@gmail.com**
+- 📫 How to reach me **stuartchen.dev@gmail.com**
 
 - ⚡ Fun fact **I am a little fire lit in the corner.**
 

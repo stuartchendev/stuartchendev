@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yi-Ting (Stuart) Chen</h1>
 <h3 align="center">A passionate frontend & Ai-driven developer from Taiwan</h3>
 
-- 🔭 I’m currently working on [javascript-practices](https://github.com/stuartchendev/javascript-practices.git)
+- 🔭 I’m currently working on [stuartchendev.github.io](https://github.com/stuartchendev/stuartchendev.github.io.git), React rebuild version.
 
 - 🌱 I’m currently learning **React**
 

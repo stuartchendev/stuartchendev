@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on [javascript-practices](https://github.com/stuartchendev/javascript-practices.git)
 
-- 🌱 I’m currently learning **JaveScript**
+- 🌱 I’m currently learning **React**
+
+- ✅ Done: javascript、html、css
 
 - 👨‍💻 All of my projects are available at [https://stuartchendev.github.io/](https://stuartchendev.github.io/)
 

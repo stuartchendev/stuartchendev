@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [stuartchendev.github.io](https://github.com/stuartchendev/stuartchendev.github.io.git), React rebuild version.
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React**、**TypeScript**
 
 - ✅ Done: javascript、html、css
 

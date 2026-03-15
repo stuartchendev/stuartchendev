@@ -1,21 +1,11 @@
-<h1 align="center">Hi 👋, I'm Yi-Ting (Stuart) Chen</h1>
-<h3 align="center">A passionate frontend & Ai-driven developer from Taiwan</h3>
+# Hi, I'm Yi-Ting (Stuart) Chen 👋
+Frontend developer focused on JavaScript, React, and TypeScript.
 
-- 🔭 I’m currently working on [stuartchendev.github.io](https://github.com/stuartchendev/stuartchendev.github.io.git), React rebuild version.
-
-- 🌱 I’m currently learning **React**、**TypeScript**、**Next**
-
-- ✅ Done: javascript、html、css
-
-- 👨‍💻 All of my projects are available at [https://stuartchendev.github.io/](https://stuartchendev.github.io/)
-
-- 📝 I regularly write articles on [TBD](TBD)
-
-- 💬 Ask me about **JavaScript、MVC**
-
-- 📫 How to reach me **stuartchen.dev@gmail.com**
-
-- ⚡ Fun fact **I am a little fire lit in the corner.**
-
-</p>
-
+- 🔭 Currently building: my React + TypeScript portfolio
+- 🌱 Currently learning: React, TypeScript, and Next.js
+- 🧠 Interested in: state modeling, clear data flow, and maintainable UI architecture
+- ✅ Built with: JavaScript, HTML, CSS, React, TypeScript
+- 👨‍💻 Portfolio: https://stuartchendev.github.io/
+- 💬 Ask me about: JavaScript, React state design, MVC refactoring
+- 📫 Contact: stuartchen.dev@gmail.com
+- 🌍 Based in Taiwan, open to remote opportunities
